@@ -1,0 +1,22 @@
+.logo img {
+  height: 85px;
+  width: 85px;
+}
+
+.image {
+  width: 100%;
+}
+
+.container img {
+  width: 100%;
+}
+
+.lists {
+  list-style-type: disc;
+  text-align: left;
+}
+
+.mom {
+  display: block;
+  margin: auto;
+}
